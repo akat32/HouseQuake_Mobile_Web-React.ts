@@ -1,0 +1,158 @@
+.signupPage {
+    .chkIsCompany {
+        margin-left: 8.5vw;
+        margin-top: 3em;
+        width: 83vw;
+        height: 26.7vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .circle1 {
+            position: relative;
+            width: 26.7vw;
+            height: 26.7vw;
+            background-color: rgb(31, 192, 165);
+            border-radius: 50%;
+            .people {
+                position: absolute;
+                bottom : 0;
+                left: 0;
+                right: 0;
+                margin: auto;
+                width: 67%;
+                height: 67%;
+                background-repeat: no-repeat;
+                background-size: contain;
+                background-image: url('../../../../assets/user.svg');
+            }
+        }
+        .circle2 {
+            width: 26.7vw;
+            height: 26.7vw;
+            background-color: rgb(187, 187, 187);
+            border-radius: 50%;
+            position: relative;
+            .bulding {
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                margin: auto;
+                width: 60%;
+                height: 75%;
+                background-color: #ffffff;
+                .window1 {
+                    position: absolute;
+                    left: 0;
+                    width: 20%;
+                    height: 10%;
+                    background-color: rgb(187, 187, 187);
+                }
+                .window2 {
+                    position: absolute;
+                    right: 0;
+                    width: 20%;
+                    height: 10%;
+                    background-color: rgb(187, 187, 187);
+                }
+                .window3 {
+                    width: 2.3vw;
+                    height: 2.3vw;
+                    top: 25%;
+                    left: 27%;
+                    position: absolute;                    
+                    background-color: rgb(187, 187, 187);
+                }
+                .window4 {
+                    width: 2.3vw;
+                    height: 2.3vw;
+                    top: 25%;
+                    right: 27%;
+                    position: absolute;                    
+                    background-color: rgb(187, 187, 187);
+                }
+                .window5 {
+                    width: 2.3vw;
+                    height: 2.3vw;
+                    top: 42%;
+                    left: 27%;
+                    position: absolute;                    
+                    background-color: rgb(187, 187, 187);
+                }
+                .window6 {
+                    width: 2.3vw;
+                    height: 2.3vw;
+                    top: 42%;
+                    right: 27%;
+                    position: absolute;                    
+                    background-color: rgb(187, 187, 187);
+                }
+                .window7 {
+                    width: 2.3vw;
+                    height: 2.3vw;
+                    top: 59%;
+                    left: 27%;
+                    position: absolute;                    
+                    background-color: rgb(187, 187, 187);
+                }
+                .window8 {
+                    width: 2.3vw;
+                    height: 2.3vw;
+                    top: 59%;
+                    right: 27%;
+                    position: absolute;                    
+                    background-color: rgb(187, 187, 187);
+                }
+                .window9 {
+                    left: 0;
+                    right: 0;
+                    margin: auto;
+                    width: 5vw;
+                    height: 2vw;
+                    bottom: 1.2vw;
+                    position: absolute;                    
+                    background-color: rgb(187, 187, 187);
+                }
+            }
+        }
+        p {
+            flex: 1;
+            text-align: center;
+            font-size: 1.15em;
+        }
+    }
+    .wtext {
+        margin: 0;
+        margin-top: 1.5em;
+        margin-left: 8.5vw;
+        font-size: 1.07em;
+        color: rgb(48, 48, 48);
+    }
+}
+.signupTopBar {
+    height: 3.5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .leftArrow {
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-image: url('../../../../assets/arrow.png');
+        width: 2.7vw;
+        height: 5.4vw;
+        margin-left: 3.2vw;
+    }
+    .topBarTitle {
+        margin : 0;
+        display: block;
+        flex: 1;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.15em;
+    }
+    .rightDump {
+        width: 2.7vw;
+        height: 2.7vw;
+        margin-right: 3.2vw;
+    }
+}

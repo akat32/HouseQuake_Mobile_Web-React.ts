@@ -1,0 +1,288 @@
+[2019-06-15 14:27:22.411] [exthost] [info] extension host started
+[2019-06-15 14:27:22.427] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-15 14:27:22.427] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-15 14:27:22.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-15 14:27:22.431] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/emmet/dist/extension
+[2019-06-15 14:27:22.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-15 14:27:22.451] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main
+[2019-06-15 14:27:22.552] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-15 14:27:22.552] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/merge-conflict/dist/extension
+[2019-06-15 14:27:22.557] [exthost] [info] eager extensions activated
+[2019-06-15 14:27:40.265] [exthost] [info] extension host started
+[2019-06-15 14:27:40.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-15 14:27:40.286] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-15 14:27:40.289] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-15 14:27:40.289] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/emmet/dist/extension
+[2019-06-15 14:27:40.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-15 14:27:40.293] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main
+[2019-06-15 14:27:40.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-15 14:27:40.320] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/merge-conflict/dist/extension
+[2019-06-15 14:27:40.322] [exthost] [info] eager extensions activated
+[2019-06-15 14:27:43.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescriptreact"}
+[2019-06-15 14:27:43.187] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension
+[2019-06-15 14:27:45.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-15 14:27:45.691] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/configuration-editing/dist/extension
+[2019-06-15 14:27:45.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-15 14:27:45.700] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-06-15 14:58:16.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:scss"}
+[2019-06-15 14:58:16.046] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-06-15 14:59:09.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-06-15 14:59:09.844] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/extension-editing/dist/extension
+[2019-06-15 15:24:39.494] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-06-15 15:24:39.497] [exthost] [error] Error: TypeScript Server Error (3.5.1)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (tsserver.js:121096:30)
+    at createChildren (tsserver.js:121085:9)
+    at NodeObject.getChildren (tsserver.js:121029:56)
+    at find (tsserver.js:96716:30)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at Object.findPrecedingToken (tsserver.js:96709:22)
+    at Object.getCompletionsAtPosition (tsserver.js:99500:35)
+    at Object.getCompletionsAtPosition (tsserver.js:122085:35)
+    at IOSession.Session.getCompletions (tsserver.js:131119:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:130069:61)
+    at tsserver.js:131637:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:131628:28)
+    at IOSession.Session.executeCommand (tsserver.js:131637:33)
+    at IOSession.Session.onMessage (tsserver.js:131659:35)
+    at Interface.<anonymous> (tsserver.js:132950:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:197728)
+	at v.dispatchResponse (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:203096)
+	at v.dispatchMessage (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:201848)
+	at constructor._reader.onData.e (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:201204)
+	at u.fire (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:720)
+	at t.Reader.onLengthData (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:206508)
+	at Socket.t.Reader.constructor.e.on.e (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:206156)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-06-15 16:04:18.659] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2019-06-15 16:04:18.659] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.node-debug2/out/src/extension
+[2019-06-15 16:04:18.663] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2019-06-15 16:04:18.663] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.node-debug/dist/extension.js
+[2019-06-15 16:04:20.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"activationEvent":"onDebugResolve"}
+[2019-06-15 16:04:20.698] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/debug-server-ready/dist/extension
+[2019-06-15 16:20:00.278] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-06-15 16:20:00.278] [exthost] [error] Error: TypeScript Server Error (3.5.1)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (tsserver.js:121096:30)
+    at createChildren (tsserver.js:121085:9)
+    at NodeObject.getChildren (tsserver.js:121029:56)
+    at find (tsserver.js:96716:30)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at Object.findPrecedingToken (tsserver.js:96709:22)
+    at Object.getCompletionsAtPosition (tsserver.js:99500:35)
+    at Object.getCompletionsAtPosition (tsserver.js:122085:35)
+    at IOSession.Session.getCompletions (tsserver.js:131119:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:130069:61)
+    at tsserver.js:131637:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:131628:28)
+    at IOSession.Session.executeCommand (tsserver.js:131637:33)
+    at IOSession.Session.onMessage (tsserver.js:131659:35)
+    at Interface.<anonymous> (tsserver.js:132950:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:197728)
+	at v.dispatchResponse (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:203096)
+	at v.dispatchMessage (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:201848)
+	at constructor._reader.onData.e (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:201204)
+	at u.fire (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:720)
+	at t.Reader.onLengthData (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:206508)
+	at Socket.t.Reader.constructor.e.on.e (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:206156)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-06-15 16:21:07.563] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-06-15 16:21:07.563] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-06-15 17:25:11.436] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-06-15 17:25:11.436] [exthost] [error] Error: TypeScript Server Error (3.5.1)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (tsserver.js:121096:30)
+    at createChildren (tsserver.js:121085:9)
+    at NodeObject.getChildren (tsserver.js:121029:56)
+    at getTokenAtPositionWorker (tsserver.js:96646:43)
+    at Object.getTokenAtPosition (tsserver.js:96638:16)
+    at getInfo (tsserver.js:117568:28)
+    at Object.getAvailableActions (tsserver.js:117552:28)
+    at tsserver.js:112870:128
+    at getIterator (tsserver.js:627:23)
+    at Object.flatMapIterator (tsserver.js:610:27)
+    at Object.getApplicableRefactors (tsserver.js:112869:36)
+    at Object.getApplicableRefactors (tsserver.js:122632:32)
+    at IOSession.Session.getApplicableRefactors (tsserver.js:131393:53)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:130211:61)
+    at tsserver.js:131637:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:131628:28)
+    at IOSession.Session.executeCommand (tsserver.js:131637:33)
+    at IOSession.Session.onMessage (tsserver.js:131659:35)
+    at Interface.<anonymous> (tsserver.js:132950:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:197728)
+	at v.dispatchResponse (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:203096)
+	at v.dispatchMessage (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:201848)
+	at constructor._reader.onData.e (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:201204)
+	at u.fire (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:720)
+	at t.Reader.onLengthData (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:206508)
+	at Socket.t.Reader.constructor.e.on.e (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:206156)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-06-15 17:25:11.736] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-06-15 17:25:11.736] [exthost] [error] Error: TypeScript Server Error (3.5.1)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (tsserver.js:121096:30)
+    at createChildren (tsserver.js:121085:9)
+    at NodeObject.getChildren (tsserver.js:121029:56)
+    at find (tsserver.js:96716:30)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at find (tsserver.js:96736:32)
+    at Object.findPrecedingToken (tsserver.js:96709:22)
+    at Object.getCompletionsAtPosition (tsserver.js:99500:35)
+    at Object.getCompletionsAtPosition (tsserver.js:122085:35)
+    at IOSession.Session.getCompletions (tsserver.js:131119:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:130069:61)
+    at tsserver.js:131637:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:131628:28)
+    at IOSession.Session.executeCommand (tsserver.js:131637:33)
+    at IOSession.Session.onMessage (tsserver.js:131659:35)
+    at Interface.<anonymous> (tsserver.js:132950:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:197728)
+	at v.dispatchResponse (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:203096)
+	at v.dispatchMessage (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:201848)
+	at constructor._reader.onData.e (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:201204)
+	at u.fire (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:720)
+	at t.Reader.onLengthData (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:206508)
+	at Socket.t.Reader.constructor.e.on.e (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:206156)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-06-15 17:25:11.968] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-06-15 17:25:11.968] [exthost] [error] Error: TypeScript Server Error (3.5.1)
+Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxSelfClosingElement to have an Identifier in its trivia
+    at addSyntheticNodes (tsserver.js:121096:30)
+    at createChildren (tsserver.js:121085:9)
+    at NodeObject.getChildren (tsserver.js:121029:56)
+    at getTokenAtPositionWorker (tsserver.js:96646:43)
+    at Object.getTokenAtPosition (tsserver.js:96638:16)
+    at getInfo (tsserver.js:117568:28)
+    at Object.getAvailableActions (tsserver.js:117552:28)
+    at tsserver.js:112870:128
+    at getIterator (tsserver.js:627:23)
+    at Object.flatMapIterator (tsserver.js:610:27)
+    at Object.getApplicableRefactors (tsserver.js:112869:36)
+    at Object.getApplicableRefactors (tsserver.js:122632:32)
+    at IOSession.Session.getApplicableRefactors (tsserver.js:131393:53)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:130211:61)
+    at tsserver.js:131637:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:131628:28)
+    at IOSession.Session.executeCommand (tsserver.js:131637:33)
+    at IOSession.Session.onMessage (tsserver.js:131659:35)
+    at Interface.<anonymous> (tsserver.js:132950:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:197728)
+	at v.dispatchResponse (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:203096)
+	at v.dispatchMessage (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:201848)
+	at constructor._reader.onData.e (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:201204)
+	at u.fire (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:720)
+	at t.Reader.onLengthData (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:206508)
+	at Socket.t.Reader.constructor.e.on.e (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:206156)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)

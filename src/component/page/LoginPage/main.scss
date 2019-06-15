@@ -1,0 +1,67 @@
+.mainPage {
+    .backImg { 
+        width: 100vw;
+        height: 100vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url('../../../assets/country-house-540796_1280.jpg');
+        background-position: 60%;
+        position: absolute;
+        top: 0;
+    }
+    .backOpacity {
+        background: #000000;
+        width: 100vw;
+        height: 100vh;
+        position: absolute;
+        top: 0;
+        opacity: 0.3;
+    }
+    .innerBox {
+        width: 100vw;
+        height: 64vh;
+        position: absolute;
+        z-index: 1;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        display: flex;
+        align-items: center; 
+        flex-direction: column;
+        .title {
+            color: #ffffff;
+            margin: 0;
+            font-size: 2.5em;
+            font-weight: bold;
+            text-align: center;
+        }
+        p {
+            margin : 0;
+            margin-top: 4.5vh;
+            text-align: center;
+            color: #ffffff;
+            font-size: 1.35em;
+            letter-spacing: 0.01em;
+            margin-bottom: 25vh;
+        }
+        button {
+            width: 62.7vw;
+            height: 8.5vh;
+            background-color: rgb(31 ,192 ,165);
+            border: 0;
+            border-radius: 8.5vh;
+            color: #ffffff;
+            font-size: 1.17em;
+            line-height: 8.5vh;
+            font-weight: bold;
+        }
+        span {
+            font-size: 1.15em;
+            margin-top: 5vh;
+            font-weight: 400;
+            color: #ffffff;
+        }
+    }
+}

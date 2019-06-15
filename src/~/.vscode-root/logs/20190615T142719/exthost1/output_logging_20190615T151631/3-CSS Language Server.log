@@ -1,0 +1,12 @@
+[Error - 15:16:31] Error while computing completions for file:///Users/snlcom/Desktop/housequake/src/component/page/main/main.scss: Cannot read property 'indexOf' of undefined
+TypeError: Cannot read property 'indexOf' of undefined
+    at /private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:582641
+    at Array.filter (<anonymous>)
+    at t.getTermProposals (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:582587)
+    at t.e.getCompletionsForDeclarationValue (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:524613)
+    at t.e.getCompletionsForExpression (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:534095)
+    at t.e.doComplete (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:519781)
+    at c.runSafe (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:71319)
+    at Immediate.setImmediate [as _onImmediate] (/private/var/folders/k5/5sfx4_wn3vb8v1jlf02n_2p80000gn/T/AppTranslocation/EEEC6B8B-DC22-4426-BA5A-512EAA1A5AA9/d/Visual Studio Code.app/Contents/Resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:100717)
+    at runCallback (timers.js:696:18)
+    at tryOnImmediate (timers.js:667:5)
